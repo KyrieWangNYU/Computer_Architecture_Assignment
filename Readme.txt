@@ -1,1 +1,2 @@
-In this lab, we followed the diagram provided in our lecture slides and implememnted this C++ program. Based on the description in the lab maunal, we treated each class in the program as different block in MIPS architecture. We have ran test on the provided imem and dmem files using the provided makefile, and this program worked as expected. 
+Git is a distributed version control system.
+Git is free software.
